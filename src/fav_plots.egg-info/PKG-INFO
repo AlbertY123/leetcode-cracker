@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: fav-plots
+Version: 0.0.3
+Summary: package to make some favoriate plots
+Author-email: Mena Wang <ningwang25@gmail.com>
+Project-URL: Homepage, https://github.com/MenaWANG/fav_plots
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+I love data visualization that helps everyone to make sense of data and see the beauty in it. 
+
+This package will include my favoriate dataviz and makes it easy to produce them. 
+
+## Installation
+
+You can install this package by running
+
+`pip install fav_plots`
+
+## Usage
+
+Here's how to use this package:
+
+```python
+import fav_plots
+
+```
