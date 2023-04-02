@@ -4,11 +4,11 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "fav_plots"
-version = "0.0.3"
+version = "0.0.4"
 authors = [
   { name="Mena Wang", email="ningwang25@gmail.com" },
 ]
-description = "package to make some favoriate plots"
+description = "package to make some favourite plots"
 readme = "README.md"
 requires-python = ">=3.10"
 classifiers = [

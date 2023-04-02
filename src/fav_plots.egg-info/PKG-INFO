@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: fav-plots
-Version: 0.0.3
-Summary: package to make some favoriate plots
+Version: 0.0.4
+Summary: package to make some favourite plots
 Author-email: Mena Wang <ningwang25@gmail.com>
 Project-URL: Homepage, https://github.com/MenaWANG/fav_plots
 Classifier: Programming Language :: Python :: 3
