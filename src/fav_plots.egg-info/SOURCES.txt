@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/fav_plots/__init__.py
+src/fav_plots/utils.py
+src/fav_plots.egg-info/PKG-INFO
+src/fav_plots.egg-info/SOURCES.txt
+src/fav_plots.egg-info/dependency_links.txt
+src/fav_plots.egg-info/top_level.txt

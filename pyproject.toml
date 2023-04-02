@@ -1,10 +1,10 @@
 [build-system]
-requires = ["setuptools>=61.0"]
+requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "fav-plots"
-version = "0.0.1"
+name = "fav_plots"
+version = "0.0.3"
 authors = [
   { name="Mena Wang", email="ningwang25@gmail.com" },
 ]
@@ -13,9 +13,9 @@ readme = "README.md"
 requires-python = ">=3.10"
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: MIT License",
+    "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/MenaWANG/fav-plots"
+"Homepage" = "https://github.com/MenaWANG/fav_plots"
