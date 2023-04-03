@@ -5,6 +5,11 @@ name = "pypi"
 
 [packages]
 plotnine = "*"
+pytest = "*"
+pytest-cov = "*"
+keyring = "*"
+artifacts-keyring = "*"
+twine = "*"
 
 [dev-packages]
 
