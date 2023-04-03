@@ -1,0 +1,7 @@
+setuptools
+wheel
+pytest
+pytest-cov
+keyring
+artifacts-keyring
+twine
