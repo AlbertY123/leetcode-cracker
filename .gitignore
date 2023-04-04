@@ -1,4 +1,6 @@
 .devlog/
 .venv/
-*cache/
+*cache*/
+*egg-info*/
+
 

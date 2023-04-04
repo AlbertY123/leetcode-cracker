@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "fav_plots"
-version = "0.0.4"
+dynamic = ["version"]
 authors = [
   { name="Mena Wang", email="ningwang25@gmail.com" },
 ]
@@ -19,3 +19,6 @@ classifiers = [
 
 [project.urls]
 "Homepage" = "https://github.com/MenaWANG/fav_plots"
+
+[tool.setuptools.dynamic]
+version = {attr = "fav_plots.__version__"}

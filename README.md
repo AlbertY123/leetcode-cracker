@@ -1,12 +1,24 @@
-I love data visualization that helps everyone to make sense of data and see the beauty in it. 
+I like data visualization that are both pretty and easy to understand. 
 
-This package will include my favoriate dataviz and makes it easy to produce them. 
+This package will include my favourite dataviz. 
+
 
 ## Installation
 
 You can install this package by running
 
-`pip install fav-plots==0.0.4`
+`pip install fav-plots`
+
+
+## Development
+
+Currently the package only has one simple function `add_one`, which can be called with code below
+
+```
+from fav_plots.utils import add_one
+add_one(5) # this should return 6
+```
+
 
 ## Unit test
 
