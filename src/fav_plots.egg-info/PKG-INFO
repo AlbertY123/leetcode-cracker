@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: fav-plots
-Version: 0.0.4
+Version: 0.0.5
 Summary: package to make some favourite plots
 Author-email: Mena Wang <ningwang25@gmail.com>
 Project-URL: Homepage, https://github.com/MenaWANG/fav_plots
@@ -11,19 +11,31 @@ Requires-Python: >=3.10
 Description-Content-Type: text/markdown
 License-File: LICENSE
 
-I love data visualization that helps everyone to make sense of data and see the beauty in it. 
+I like data visualization that are both pretty and easy to understand. 
 
-This package will include my favoriate dataviz and makes it easy to produce them. 
+This package will include my favourite dataviz. 
+
 
 ## Installation
 
 You can install this package by running
 
-`pip install fav_plots`
+`pip install fav-plots`
+
+
+## Development
+
+Currently the package only has one simple function `add_one`, which can be called with code below
+
+```
+from fav_plots.utils import add_one
+add_one(5) # this should return 6
+```
+
 
 ## Unit test
 
-* Create a virtual environment
+* Create a virtual environment 
 * Install unit requirements for local development and the project package in a developer mode:
     * `pip install -r unit-requirements.txt`
     * `pip install -e .`
