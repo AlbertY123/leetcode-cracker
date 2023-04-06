@@ -1,30 +1,10 @@
-I like data visualization that are both pretty and easy to understand. 
+# Leetcode Cracker Info
+Leetcode Cracker is a Python package that allows you to get LeetCode question explanations and answers. LeetCode is a popular online platform for practicing coding skills and preparing for technical interviews. LeetCode offers hundreds of problems covering various topics, such as arrays, strings, trees, graphs, dynamic programming, etc. However, sometimes the official solutions and explanations are not clear enough or not available at all. Leetcode Cracker solves this problem by providing you with detailed and easy-to-understand explanations and answers for any LeetCode question. You can soon use Leetcode Cracker to:
 
-This package will include my favourite dataviz. 
+- Search for a specific question by its title or ID
+- Get a summary of the question, including its difficulty level, acceptance rate, tags, and company frequency
+- Get a step-by-step explanation of the optimal solution, along with the time and space complexity analysis
+- Get the Python code for the optimal solution, along with comments and test cases
+- Compare your code with other solutions and learn from different approaches
 
-
-## Installation
-
-You can install this package by running
-
-`pip install fav-plots`
-
-
-## Development
-
-Currently the package only has one simple function `add_one`, which can be called with code below
-
-```
-from fav_plots.utils import add_one
-add_one(5) # this should return 6
-```
-
-
-## Unit test
-
-* Create a virtual environment 
-* Install unit requirements for local development and the project package in a developer mode:
-    * `pip install -r unit-requirements.txt`
-    * `pip install -e .`
-* Run unit test
-    * `pytest tests/unit --cov` 
+Leetcode Cracker is designed to help you improve your coding skills and ace your technical interviews. It is easy to install and use.
