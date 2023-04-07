@@ -2,5 +2,6 @@
 .venv/
 *cache*/
 *egg-info*/
+dist/
 
 

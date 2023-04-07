@@ -3,12 +3,12 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "fav_plots"
+name = "leetcode_cracker"
 dynamic = ["version"]
 authors = [
-  { name="Mena Wang", email="ningwang25@gmail.com" },
+  { name="Albert", email="albertyqyao@gmail.com" },
 ]
-description = "package to make some favourite plots"
+description = "package to assist in solving Leetcode Problems"
 readme = "README.md"
 requires-python = ">=3.10"
 classifiers = [
@@ -18,7 +18,7 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/MenaWANG/fav_plots"
+"Homepage" = "https://github.com/AlbertY123/leetcode-cracker"
 
 [tool.setuptools.dynamic]
-version = {attr = "fav_plots.__version__"}
+version = {attr = "leetcode_cracker.__version__"}
