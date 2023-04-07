@@ -1,6 +1,6 @@
 import logging
 
-from fav_plots.utils import add_one
+from leetcode_cracker.utils import add_one
 
 
 def test_add_one():
