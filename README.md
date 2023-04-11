@@ -8,3 +8,15 @@ Leetcode Cracker is a Python package that allows you to get LeetCode question ex
 - Compare your code with other solutions and learn from different approaches
 
 Leetcode Cracker is designed to help you improve your coding skills and ace your technical interviews. It is easy to install and use.
+
+# How to use the package
+
+1. Import the package: `pip install leetcode-cracker`
+2. Import package locally: `from leetcode_cracker import question_question number`
+3. Call for question: `question_392.print_question()`
+4. Call for solution: `question_392.print_solution()`
+
+# Question Database
+
+Question 392
+Question 268
