@@ -21,5 +21,7 @@ Leetcode Cracker is designed to help you improve your coding skills and ace your
 
 # Easy
 
+Question 169 - Majority Element
 Question 268 - Missing Number
+Question 283 - Moving Zeros
 Question 392 - Is Subsequence
