@@ -21,9 +21,40 @@ Leetcode Cracker is designed to help you improve your coding skills and ace your
 
 # Easy
 
-Question 121 - Best time to buy and sell stock
-Question 169 - Majority Element
-Question 268 - Missing Number
-Question 283 - Moving Zeros
-Question 392 - Is Subsequence
-Question 2469 - Convert the Tempreture
+* Question 1 - Two Sum
+* Question 9 - Palindrome Number
+* Question 35 - Search Insert Position
+* Question 58 - Length of last word
+* Question 66 - Plus One
+* Question 67 - Add Binary
+* Question 70 - Climbing Stairs
+* Question 118 - Pascal Triangle
+* Question 119 - Pascal Triangle 2
+* Question 121 - Best time to buy and sell stock
+* Question 169 - Majority Element
+* Question 217 - Comtains Duplicate
+* Question 231 - Power of two
+* Question 258 - Add Digits
+* Question 263 - Ugly Number
+* Question 268 - Missing Number
+* Question 278 - First bad version
+* Question 283 - Moving Zeros
+* Question 326 - Power of three
+* Question 342 - Power of Four
+* Question 367 - Valid Perfect Square
+* Question 392 - Is Subsequence
+* Question 509 - Fibbinachi Numbers
+* Question 728 - Self Dividing Numbers
+* Question 1137 - Tribonacci Number
+* Question 1480 - Running Sum of 1d array
+* Question 2235 - Add Two Integers
+* Question 2469 - Convert the Tempreture
+
+# Medium
+
+* Question 22 - Generate Parantheses
+* Question 43 - Multiply Strings
+* Question 46 - Permutations
+* Question 47 - Permutations 2
+* Question 50 - Pow(x, n)
+* Question 371 - Sum of two integers
